@@ -1,3 +1,5 @@
+// We need to return the sum which is greater.
+
 function biggerTwo(a, b){
   sum_a = a[0]+a[1];
   sum_b = b[0]+b[1];
